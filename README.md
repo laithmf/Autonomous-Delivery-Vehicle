@@ -1,2 +1,2 @@
-# Autonomous Delivery Vehicle
-A self driving vehicle for a warehouse environment
+# autonomous-delivery-vehicle
+Arduino + Python autonomous warehouse delivery vehicle with RGB color detection, line tracking, and Bluetooth control — Wayne State University Senior Project
