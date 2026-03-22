@@ -14,6 +14,10 @@ An autonomous miniature delivery vehicle designed for warehouse environments. Th
 This project demonstrates how sensor-driven automation can replace repetitive human labor in controlled industrial settings, improving efficiency and reducing error margins.
 
 ---
+## 🎥 Demo Video
+[![Autonomous Delivery Vehicle Demo](https://img.youtube.com/vi/OsaulQylOoI/0.jpg)](https://youtu.be/OsaulQylOoI)
+
+---
 
 ## 🎯 Key Features
 
